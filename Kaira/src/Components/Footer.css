@@ -1,0 +1,39 @@
+.icon1{
+    /* background-color: red; */
+}
+.icon1:hover{
+    cursor: pointer;
+}
+
+
+.icon2{
+    /* background-color: blue; */
+}
+.icon2:hover{
+    cursor:pointer;
+}
+
+.icon3{
+    /* background-color: green; */
+}
+.icon3:hover{
+    cursor:pointer
+}
+
+.icon4{
+    /* background-color: orange; */
+}
+.icon4:hover{
+    cursor:pointer;
+}
+
+.icon5{
+    /* background-color: yellow; */
+}
+.icon5:hover{
+    cursor: pointer;
+}
+
+/* body{
+    background-color: rgb(240, 235, 235);
+} */

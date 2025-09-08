@@ -1,0 +1,45 @@
+.my-custom-style-header{
+      font-family: "Marcellus", serif;
+      /* background-color: grey; */
+      /* height: 1050px; */
+}
+
+.my-custom-style-para{
+    color: rgb(143, 134, 134);
+}
+
+.my-custom-caption{
+  font-family: "Marcellus", serif;
+  font-weight: 400;
+  
+}
+.my-custom-para2{
+  font-weight: 100;
+  gap: 215px;
+  color: rgb(143, 134, 134);
+}
+
+ .my-custom-caption-discover{
+  font-weight: 350;
+  text-decoration: underline;
+ }
+
+
+
+
+
+ .para{
+  color: grey;
+ }
+ .topic{
+        font-family: "Marcellus", serif;
+ }
+
+
+
+
+
+
+.landingpage{
+  background-color: red;
+}

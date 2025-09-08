@@ -1,0 +1,24 @@
+.gray{
+    background-color: rgb(223, 215, 215);
+}
+.header{
+    font-family: "Marcellus", serif; 
+    /* background-color: whitesmoke; */
+}
+.para{
+    font-family: "Jost", sans-serif;
+    color: gray;
+}
+.button{
+    font-family: "Jost", sans-serif;
+    /* margin-left: 5px; */
+}
+.button:hover{
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.classic-winter-collection{
+    font-family: "Marcellus", serif; 
+}
