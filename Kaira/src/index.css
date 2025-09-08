@@ -25,4 +25,8 @@ body{
     @apply text-center;
 }
 
+.fontLarge {
+    @apply text-[50px];
+}
+
 
